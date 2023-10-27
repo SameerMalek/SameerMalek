@@ -1,3 +1,4 @@
+![logo](https://github.com/SameerMalek/SameerMalek/blob/main/Software%20Developer.png)
 <h1 align="center">Hi 👋, I'm Mohammad Sameer Malek</h1>
 <h3 align="center">A passionate Software Developer.</h3>
 
