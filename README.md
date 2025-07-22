@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🌱 I’m currently learning **MERN Stack🎯**
+- 🌱 I’m currently learning **AI ENGINEERING🎯**
 
 - 📫 How to reach me **maleksameer715@gmail.com**
 
