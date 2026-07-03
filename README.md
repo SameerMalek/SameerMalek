@@ -173,13 +173,3 @@ The forward-deployed engineer for a multi-brand design and manufacturing group: 
 ### 💭 Beliefs
 
 > *Most AI projects die in the gap between the demo and the deployment; the interesting work lives in that gap. Agents without evals are demos. Tools should be designed for agents, not wrapped from APIs. Tokens are a budget line, not a rounding error. And enterprise clients buy trust before they buy features — which is why compliance is a product, not paperwork.*
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SameerMalek&show_icons=true&locale=en&layout=compact" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SameerMalek&" alt="streak" />
-
-</div>
