@@ -145,10 +145,10 @@
 | Product | What it is | Why it exists |
 |---|---|---|
 | [FabricLab](https://fabriclab.ai) | Multi-tenant SaaS quoting and work-order platform — 4 calculation engines, BOM generation, Stripe billing | Drapery quoting ran on tribal knowledge and hand-applied formulas |
+| [ProQuote](https://pro-quote.ai) | Sales and project-management platform taking manufacturers from quote to delivered job in one system | Quotes, jobs, and hand-offs were scattered across spreadsheets and inboxes |
 | Keystone | Construction estimating platform (Next.js 15 · Prisma 6 · Cloud Run) delivered forward-deployed to an enterprise client | Estimating lived in spreadsheets that couldn't scale or be audited |
 | [Cadence](https://heycadence.ai) | Meeting transcription on self-hosted Whisper inside a VPC, diarized Gemini summaries | Meeting audio is sensitive and should never transit a third party |
 | Maximizer MCP Server | 45+ CRM tools over Model Context Protocol (TypeScript · OAuth2 · stdio + HTTP) | A chatbot that cannot act is a toy; agents need purposeful, high-signal tools |
-| [Measure Sheet Extractor](https://measure-sheet-extractor.vercel.app) | Gemini + Vertex AI OCR for handwritten field measure sheets | Field data was retyped by hand into quoting systems — slowly and wrongly |
 | Vistalyze | Internal KPI/ops dashboard on Cloud Run with live Maximizer CRM integration | Leadership was flying blind between month-end reports |
 | Coordination MCP | FastMCP server letting parallel agent sessions share state, events, and contracts | Multi-agent systems need a shared source of truth, not copy-paste relays |
 | [Orchestrator](https://orchestrator.ca) | Our consultancy's own site — Next.js · R3F · Gemini API | The shop window should be built like the client work |
