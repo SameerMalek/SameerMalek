@@ -150,7 +150,7 @@
 | [Cadence](https://heycadence.ai) | Meeting transcription on self-hosted Whisper inside a VPC, diarized Gemini summaries | Meeting audio is sensitive and should never transit a third party |
 | Maximizer MCP Server | 45+ CRM tools over Model Context Protocol (TypeScript · OAuth2 · stdio + HTTP) | A chatbot that cannot act is a toy; agents need purposeful, high-signal tools |
 | Vistalyze | Internal KPI/ops dashboard on Cloud Run with live Maximizer CRM integration | Leadership was flying blind between month-end reports |
-| [Sonata Design](https://www.sonatadesign.ca) | Customer-facing site for the multi-brand home-design and manufacturing group — window coverings, motorization, home automation | The storefront should reflect the craft of the work behind it |
+| [Sonata Design](https://www.sonatadesign.ca) | Marketing site with an embedded **RAG assistant** — Pinecone + OpenAI retrieval grounded in product galleries and guides, streamed via the Vercel AI SDK, sessions in Postgres, leads routed into n8n | Buyers ask the same product questions after hours; the site should answer them and capture the lead |
 | [Orchestrator](https://orchestrator.ca) | Our consultancy's own site — Next.js · R3F · Gemini API | The shop window should be built like the client work |
 | AutoPilot | Browser automation on Claude vision + Playwright, human-in-the-loop below 40% confidence | Unattended agents need trust boundaries and a human path when unsure |
 
